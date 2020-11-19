@@ -3,8 +3,8 @@ import React from 'react';
 //Bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Navbar from "react-bootstrap/Navbar";
-
+import Navbar from 'react-bootstrap/Navbar';
+console.log('Navbar');
 export default function App() {
   return (
     <>
