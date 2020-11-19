@@ -1,17 +1,17 @@
-import React from "react";
+import React from 'react';
 
 //Bootstrap
-import 'bootstrap/dist/css/bootstrap.min.css';
+// /import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Navbar from "react-bootstrap/Navbar";
+// import Navbar from "react-bootstrap/Navbar";
 
 export default function App() {
   return (
     <>
       <header>
-        <Navbar bg="dark" variant="dark">
+        {/* <Navbar bg="dark" variant="dark">
           <span>Home</span>
-        </Navbar>
+        </Navbar> */}
       </header>
 
       <div>
