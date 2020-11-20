@@ -10,7 +10,6 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Card from 'react-bootstrap/Card';
 
 
-
 console.log('Navbar');
 export default function App() {
   return (
@@ -69,11 +68,7 @@ export default function App() {
           </div>
           <div class="col-md w-80">
             <ListGroup class="w-100">
-              <ListGroup.Item variant="success">Never gonna give you up</ListGroup.Item>
-              <ListGroup.Item variant="success">Never gonna let you down</ListGroup.Item>
-              <ListGroup.Item variant="success">Never gonna run around</ListGroup.Item>
-              <ListGroup.Item variant="danger">And</ListGroup.Item>
-              <ListGroup.Item variant="success">Desert you</ListGroup.Item>
+              // Render list items here
             </ListGroup>
           </div>
         </div>
