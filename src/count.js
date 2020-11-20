@@ -4,8 +4,8 @@ import List from './list.js';
 function Counter( {initialCount} ){
 
   const [count, setCount] = useState(0);
-
-  function updateCounter(LS.includes()){
+//Sudo stuff is everywhere...
+  function updateCounter(LS.includes(value='danger')){
     setCount(count + 1);
   }
 
