@@ -4,7 +4,7 @@ import ls from 'local-storage'
 
 
 //Locla Sotrage Land
-const toDo = localStorage.setItem('Never gonna give you up, name=Brandon value=secondary')
+const listArray = []
 {/* <ListGroup.Item variant="success">Never gonna give you up</ListGroup.Item>
 <ListGroup.Item variant="success">Never gonna let you down</ListGroup.Item>
 <ListGroup.Item variant="success">Never gonna run around</ListGroup.Item>
